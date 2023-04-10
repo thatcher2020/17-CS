@@ -109,7 +109,7 @@ Flags are used to modify the behavior of a regex. There are two types of flags: 
 - g is the inline flag and it is saying that it can match as many times as it wants to
 
 
-### Character Escapes
+### Character Escaeps
 
 Character escapes are used to match a character that has a special meaning in regex. There are two types of character escapes: special and unicode.
 
