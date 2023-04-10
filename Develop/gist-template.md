@@ -118,9 +118,9 @@ Character escapes are used to match a character that has a special meaning in re
 - \u is the unicode character escape and it is saying that the next four characters are unicode
 
 some examples in our code would be
-\w its saying that the next character is a word character
+- \w its saying that the next character is a word character
 
-\Z its saying that the next character is the end of a string
+- \Z its saying that the next character is the end of a string
 
 
 
